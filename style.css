@@ -1,5 +1,5 @@
 #introduction {
-    background: linear-gradient(rgba(100, 181, 246, 1), rgba(0, 0, 0, 0.8)), url('/images/background.jpg') 0% 0%/cover
+    background: linear-gradient(rgba(100, 181, 246, 1), rgba(0, 0, 0, 0.8)), url(images/background.jpg) 0% 0%/cover
 }
 
 .fill-viewport {
@@ -11,7 +11,7 @@
 }
 
 #info-3 {
-    background: linear-gradient(rgba(100, 181, 246, 0.3), rgba(0, 0, 0, 0.8)), url(/images/foto.jpg) 0% 0%/cover;
+    background: linear-gradient(rgba(100, 181, 246, 0.3), rgba(0, 0, 0, 0.8)), url(images/foto.jpg) 0% 0%/cover;
 }
 
 @media screen and (min-width: 768px) {
