@@ -9,3 +9,7 @@
 .text-white-70 {
     color: rgba(255, 255, 255, 0.7)
 }
+
+#info-3 {
+    background: linear-gradient(rgba(100, 181, 246, 0.3), rgba(0, 0, 0, 0.8)), url(../images/foto.jpg) 0% 0%/cover;
+}
